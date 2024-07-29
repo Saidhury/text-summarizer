@@ -13,7 +13,7 @@
 
 ## Installation
 
-To run this app locally, follow these steps:
+To run this app locally, open command prompt in your desired folder and follow these steps:
 
 1. **Clone the repository:**
 
